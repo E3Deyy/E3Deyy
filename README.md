@@ -1,16 +1,30 @@
-## Hi there 👋
+# Nicolás — Backend | AI Systems | DevOps
+I design and build scalable systems, taking AI models from experimentation to reliable production environments.
 
-<!--
-**E3Deyy/E3Deyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Current Focus
+- AI infrastructure (inference pipelines, LLM tooling)
+- Distributed and resilient backend systems
+- Observability, automation, and DevOps practices
+- Applied cybersecurity (attack-defense lab environments)
 
-Here are some ideas to get you started:
+🚀 Key Projects
+Project A → Coming soon...
+Project B → Coming soon...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Technical Interests
+- Large-scale system design
+- Performance optimization
+- Scalability and resilience
+- Developer tooling
+- Offensive and defensive security (hands-on labs and simulations)
+
+🔐 Cybersecurity
+Hands-on experience in controlled attack-defense scenarios, focused on:
+
+- Vulnerability identification and exploitation
+- System and service hardening
+- Attack surface analysis in modern architectures
+
+🤝 Open to
+- Open source collaborations
+- Backend, infrastructure, or AI systems roles
