@@ -1,6 +1,3 @@
-<img width="1024" height="1024" alt="freepik_a-topdown-flat-highresolu_2818804538" src="https://github.com/user-attachments/assets/d7737575-9cdb-49c9-a1fe-eec66317ea28" />
-
-
 # Nicolás — Backend | AI Systems | DevOps
 I design and build scalable systems, taking AI models from experimentation to reliable production environments.
 
@@ -31,3 +28,5 @@ Hands-on experience in controlled attack-defense scenarios, focused on:
 🤝 Open to
 - Open source collaborations
 - Backend, infrastructure, or AI systems roles
+
+<img width="1024" height="1024" alt="freepik_a-topdown-flat-highresolu_2818804538" src="https://github.com/user-attachments/assets/d7737575-9cdb-49c9-a1fe-eec66317ea28" />
