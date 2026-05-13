@@ -9,6 +9,7 @@ I design and build scalable systems, taking AI models from experimentation to re
 
 🚀 Key Projects
 Project A → modelmesh
+
 Project B → Coming soon...
 
 🧠 Technical Interests
