@@ -8,9 +8,12 @@ I design and build scalable systems, taking AI models from experimentation to re
 - Applied cybersecurity (attack-defense lab environments)
 
 🚀 Key Projects
+
 Project A → modelmesh
 
-Project B → Coming soon...
+Project B → inferwatch
+
+Project C → Coming soon...
 
 🧠 Technical Interests
 - Large-scale system design
