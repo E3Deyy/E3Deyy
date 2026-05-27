@@ -24,7 +24,6 @@ Project C → Coming soon...
 
 🔐 Cybersecurity
 Hands-on experience in controlled attack-defense scenarios, focused on:
-
 - Vulnerability identification and exploitation
 - System and service hardening
 - Attack surface analysis in modern architectures
