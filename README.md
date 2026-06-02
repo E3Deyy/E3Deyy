@@ -8,7 +8,7 @@ I design and build scalable systems, taking AI models from experimentation to re
 - Applied cybersecurity (attack-defense lab environments)
 
 🚀 Key Projects
-
+ 
 Project A → modelmesh
 
 Project B → inferwatch
