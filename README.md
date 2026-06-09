@@ -7,7 +7,7 @@ I design and build scalable systems, taking AI models from experimentation to re
 - Observability, automation, and DevOps practices
 - Applied cybersecurity (attack-defense lab environments)
  
-🚀 Key Projects
+🚀 Key Projects  
  
 Project A → modelmesh
 
